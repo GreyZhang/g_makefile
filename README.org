@@ -13,3 +13,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122954061][1149_Makefile学习_Windows系统下Makefile gmake报process_begin: CreateProcess(NULL, ..., ...) failed.问题解决]]
 - [[https://greyzhang.blog.csdn.net/article/details/122954452][1150_Makefile学习_Makefile中的重名target处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/122954554][1151_Makefile学习_Makefile中的静态匹配模式规则]]
+- [[https://greyzhang.blog.csdn.net/article/details/122954571][1152_Makefile学习_模式匹配规则]]
