@@ -15,3 +15,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122954554][1151_Makefile学习_Makefile中的静态匹配模式规则]]
 - [[https://greyzhang.blog.csdn.net/article/details/122954571][1152_Makefile学习_模式匹配规则]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130021370][1671_make隐式规则的链]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131029842][1731_makefile编写小结1_编译同目录下的文件]]
