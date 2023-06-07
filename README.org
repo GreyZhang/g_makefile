@@ -18,3 +18,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/131029842][1731_makefile编写小结1_编译同目录下的文件]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131055123][1732_makefile编写小结2_实现c文件依赖的自动推导]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131059666][1733_makefile编写小结3_静态目标]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131094861][1734_makefile学习小结_4_隐性规则自动推导]]
