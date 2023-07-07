@@ -20,4 +20,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/131059666][1733_makefile编写小结3_静态目标]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131094861][1734_makefile学习小结_4_隐性规则自动推导]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131584501][1762_gcc编译c语言makefile自动生成工具的Perl实现]]
-
+- [[https://blog.csdn.net/grey_csdn/article/details/131605665][1763_gcc编译c语言makefile自动生成工具的Perl实现_Linux]]
